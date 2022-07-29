@@ -36,5 +36,5 @@ Platform used for
   In the folder named FALSTAD, .txt files are present. Those files are meant to be imported FALSTAD simulation platform
   From the simulations, the experimental details are recorded in the Observations.xlsx file.
   
-### AUTHOR
+# AUTHOR
 Ghaayathri Devi K
