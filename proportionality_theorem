@@ -1,0 +1,9 @@
+Vin = 0:0.25:5;
+R1=2.2;
+R2=1;
+R=R2/(R1+R2);
+Vout = Vin*R;
+plot(Vin,Vout)
+title("PLOT OF PROPORTIONALITY THEOREM")
+xlabel(" The values of supplied voltage (in volts)")
+ylabel(" The values of output voltage (in volts)")
