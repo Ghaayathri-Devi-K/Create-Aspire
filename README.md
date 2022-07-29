@@ -34,7 +34,7 @@ Platform used for
   ## USAGE
   In the folder MATLAB, the computational verification of both the theorems is present.
   In the folder named FALSTAD, .txt files are present. Those files are meant to be imported FALSTAD simulation platform
-  From the simulations, the recorded experimental details are in the Observations.xlsx file.
+  From the simulations, the experimental details are recorded in the Observations.xlsx file.
   
-# AUTHOR
+### AUTHOR
 Ghaayathri Devi K
