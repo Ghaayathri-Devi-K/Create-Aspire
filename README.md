@@ -3,9 +3,7 @@ The project aims to verify proportionality and superposition theorem in both exp
 Proportionality is a way to relate two quantities together(source and respose given by the circuit). <br>
 The Proportionality Theorem states that the response in a circuit is proportional to the source acting 
 in the circuit. This is also known as Linearity. The proportionality constant (K) relates the input 
-voltage to the output voltages as: 
-<center><b>(Vin = K. Vout)</b></center>
-<br>
+voltage to the output voltages as: <b>(Vin = K. Vout)</b>
 Superposition is another way to solve a linear electrical circuit. The Superposition Theorem 
 states that in any linear electrical circuit, any voltage or current value can be obtained by taking 
 the individual contributions to that voltage or current as a result of each source taken alone and 
